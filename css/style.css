@@ -1370,7 +1370,8 @@ p.subtitle {
 	padding-top: 90px;
 }
 .home{
-	height: auto;
+    height: auto;
     width: 100%;
+    padding-top: 110px;
 }
 /* ===== End buttons ===== */
