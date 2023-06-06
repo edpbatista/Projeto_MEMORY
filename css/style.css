@@ -5,7 +5,7 @@ html {
 body {
 	position: relative;
 	height: 100%;
-	font-size: 14px;
+	font-size: 18px;
 	color: #363940;
 }
 
@@ -57,27 +57,27 @@ h6 {
 }
 
 h1 {
-	font-size: 36px;
+	font-size: 38px;
 }
 
 h2 {
-	font-size: 30px;
+	font-size: 32px;
 }
 
 h3 {
-	font-size: 26px;
+	font-size: 28px;
 }
 
 h4 {
-	font-size: 22px;
+	font-size: 24px;
 }
 
 h5 {
-	font-size: 18px;
+	font-size: 22px;
 }
 
 p {
-	font: 14px/1.5em "Roboto";
+	font: 16px/1.5em "Roboto";
 }
 
 .navbar-nav>li>a {
@@ -1353,11 +1353,13 @@ p.subtitle {
 
 .p_left {
 	text-align: justify;
+	font-size: 18px;
 }
 
 .p_justificado {
 	text-align: justify;
 	margin: 10px;
+	font-size: 18px;
 }
 
 .text_center {
